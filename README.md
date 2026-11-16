@@ -1,53 +1,26 @@
-Rumbleslam
-=========
+# Rumbleslam data
 
-Bug-Report:
+Army list data files for Rumbleslam.
 
-https://discord.gg/deVyWbg
+> **Community rehost.** These files were written by the community contributors listed below and were previously published at `github.com/BSData/rumbleslam`, which is no longer online. This copy keeps them available and open to updates.
+>
+> They are not made, maintained or endorsed by NewRecruit. Nobody here is affiliated with or endorsed by the publisher of Rumbleslam. All game names and trademarks belong to their respective owners. You still need the official rules to play.
 
+## Is this maintained?
 
+It is open for updates, not archived. It is kept up by whoever contributes to it, so check the commit history to see how current it is. Last data change before the rehost: 2019-04-27.
 
-#### Version ####
+## How to update it
 
-v1.0.1 Dosh
+- **Pull request:** fork this repository, make your changes and open a pull request.
+- **Write access:** if you want to maintain this game, ask on the NewRecruit Discord: https://discord.gg/cCtqGbugwb
 
-v1.0.0 Release
+## File format
 
+The files are JSON, converted on 2026-11-16 from the original BattleScribe XML (`.cat`/`.gst`). The XML versions are in the git history before that commit.
 
+## Authors
 
+From the git history of the data files:
 
-
-
-
-
-
-#### Contents ####
-
-* [Overview][]
-* [Links][]
-
-## Overview ##
-[Overview]: #overview
-
-__What's this?__
-
-BSData organisation created this project. It's GitHub repository of datafiles.
-Maintained by community, in no way endorsed by BattleScribe. If you want
-to develop - cool! We need you! Take a look at [Getting Started wiki][]
-
-__Okay, nice project. Is it actually working?__ _I just want those files..._
-
-Yeah! We have it hosted on AppSpot. Take a look: [BattleScribe Data on Appspot][]
-
-
-## Links ##
-[Links]: #links
-
-* [BattleScribe homepage][]
-* [BattleScribe Data on Appspot][]
-* [Getting Started wiki][]
-
-
-[BattleScribe homepage]: http://www.battlescribe.net/
-[BattleScribe Data on Appspot]: http://battlescribedata.appspot.com/#/repos
-[Getting Started wiki]: https://github.com/BSData/catalogue-development/wiki/Getting-Started#contributing
+- Kuinasan
